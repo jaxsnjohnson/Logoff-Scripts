@@ -21,19 +21,19 @@ Generally, you'll need the relevant software environment installed (e.g., Python
 
 ## Scripts
 
-### [GPSS.ps1](https://github.com/jaxsnjohnson/Scripts/blob/main/GPSS.ps1)
+### [GPSS](https://github.com/jaxsnjohnson/Scripts/blob/main/GPSS.ps1)
 Greatest PowerShell Script is a general scruipt for helping with simple day to day automations such as keeping winget up to date and running deffender.
 
-### IP-List-To-Hostnames.ps1
+### [IP-List-To-Hostnames.ps1](https://github.com/jaxsnjohnson/Scripts/blob/main/IP-List-To-Hostnames.ps1)
 This was made for work where we use to put in the IP address manually, still good to have those IP address on hand for troubleshooting, but were given full hostnames for the network.  This script will convert the IP addresses to the hostname and save them in excel format.  I was unable to get excel to accept the data as clickable but if you click on each one it will update. 
 
-### macOS-logoff.sh
+### [macOS-logoff.sh](https://github.com/jaxsnjohnson/Scripts/blob/main/macOS-logoff.sh)
 This is for logging off on macos and running updates with homebrew.  It has not been updated in awhile, while it might work the newer M-series Macs make it so shutting down is not needed as often.
 
-### pop-logoff.sh
+### [pop-logoff.sh](https://github.com/jaxsnjohnson/Scripts/blob/main/pop-logoff.sh)
 THis was for my old work laptop that had Pop!_OS installed.  Linux is best ran up to date, when not on an LTS stack, so this script helps keep the package manager happy when powering down.
 
-### updates.sh
+### [updates.sh](https://github.com/jaxsnjohnson/Scripts/blob/main/updates.sh)
 This will only work for Pop!_OS and will update and keep the package manager happy.  Please note it will not upgrade you to the next vertion of the software just within its release.
 
 ## Acknowledgements
