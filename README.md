@@ -21,7 +21,7 @@ Generally, you'll need the relevant software environment installed (e.g., Python
 
 ## Scripts
 
-### GPSS.ps1
+### [GPSS.ps1](https://github.com/jaxsnjohnson/Scripts/blob/main/GPSS.ps1)
 Greatest PowerShell Script is a general scruipt for helping with simple day to day automations such as keeping winget up to date and running deffender.
 
 ### IP-List-To-Hostnames.ps1
